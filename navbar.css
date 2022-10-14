@@ -81,7 +81,7 @@
     height: 44px;
 }
 
-.button{
+button{
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -92,7 +92,7 @@
     border-radius: 8px;
 }
 
-._button{
+button#signup {
     display: flex;
     flex-direction: row;
     align-items: center;
