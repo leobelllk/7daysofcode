@@ -145,11 +145,12 @@ a{
 }
 
 .title{
-    font-size: 20px;
+    font-size: 48px;
     font-weight: 600;
     letter-spacing: -0.02rem;
     color: #101828;
     text-align: center;
+    line-height: 60px;
 
     width: 603px;
     height: 60px;
@@ -160,6 +161,7 @@ a{
     text-align: center;
     line-height: 30px;
     font-size: 20px;
+    font-weight: 400;
     color:#667085;
 
     width: 791px;
