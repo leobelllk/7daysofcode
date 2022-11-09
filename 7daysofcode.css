@@ -149,11 +149,11 @@ a{
     font-size: 16px;
     color: #8E2424;
     text-align: center;
-    background-color: f9f4f4;
-    border-radius: 30px;
+    background-color: rgba(142, 36, 36, 0.05);
+    border-radius: 15px;
 
-    width: 150px;
-    height: 24px;
+    width: 130px;
+    height: 20px;
 }
 
 .title{
